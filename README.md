@@ -1,4 +1,4 @@
-# gulp-starter-kit 2020
+# Gulp Starter Kit 2020
 
 - const gulp = require("gulp");
 - const sync = require("browser-sync");
